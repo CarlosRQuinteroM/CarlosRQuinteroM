@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/carlos92_qm" target="blank"><img src="https://img.shields.io/twitter/follow/carlos92_qm?logo=twitter&style=for-the-badge" alt="carlos92_qm" /></a> </p>
 
-- 🔭 I’m currently working on [Php Backend Chat](https://github.com/CarlosRQuinteroM/BackendLaravelPhp)
+- 🔭 I’m currently working on [kaltu Payments Solutions](https://github.com/getkaltu)
 
-- 🌱 I’m currently learning **React/laravel**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **Projects in React/laravel**
+- 👯 I’m looking to collaborate on **Projects in React/ NextJS / NestJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CarlosRQuinteroM?tab=repositories](https://github.com/CarlosRQuinteroM?tab=repositories)
 
