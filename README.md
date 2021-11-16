@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/carlos92_qm" target="blank"><img src="https://img.shields.io/twitter/follow/carlos92_qm?logo=twitter&style=for-the-badge" alt="carlos92_qm" /></a> </p>
 
-- 🔭 I’m currently working on [kaltu Payments Solutions](https://github.com/getkaltu)
+- 🔭 I’m currently working on [Kaltu Payments Solutions](https://github.com/getkaltu)
 
 - 🌱 I’m currently learning **TypeScript**
 
