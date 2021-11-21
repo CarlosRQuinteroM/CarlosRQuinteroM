@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Projects in React/ NextJS / NestJs**
 
-- 👨‍💻 All of my projects are available at [https://quintero-moreno-carlos.netlify.app/portfolio](https://quintero-moreno-carlos.netlify.app/portfolio)
+- 👨‍💻 All of my projects are available at [personal WEB](https://quintero-moreno-carlos.netlify.app/portfolio)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/carlos-quintero-moreno/](https://www.linkedin.com/in/carlos-quintero-moreno/)
 
